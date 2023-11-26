@@ -1,1 +1,1 @@
-git@github.com:FenomelNl/posmotri_v_okno.git
+https://github.com/FenomelNl/posmotri_v_okno.git
